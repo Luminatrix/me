@@ -18,7 +18,7 @@ export default class Projects extends Component {
 									<div className="desc">
 										<div className="con">
 											<h3><a href="work.html">Work 01</a></h3>
-											<span>Website</span>
+											<span>Great Idea Website</span>
 											<p className="icon">
 												<span><a href="#"><i className="icon-share3" /></a></span>
 												<span><a href="#"><i className="icon-eye" /> 100</a></span>
@@ -33,7 +33,7 @@ export default class Projects extends Component {
 									<div className="desc">
 										<div className="con">
 											<h3><a href="work.html">Work 02</a></h3>
-											<span>Animation</span>
+											<span>Lambda Calculator</span>
 											<p className="icon">
 												<span><a href="#"><i className="icon-share3" /></a></span>
 												<span><a href="#"><i className="icon-eye" /> 100</a></span>
